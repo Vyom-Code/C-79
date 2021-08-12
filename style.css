@@ -1,0 +1,14 @@
+#Button_SB {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#Button_S {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+
+input{
+    width:450px;
+}
